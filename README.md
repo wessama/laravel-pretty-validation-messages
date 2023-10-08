@@ -55,21 +55,21 @@ class StoreUserDetailsRequest extends FormRequest
 Your translation strings would look like this:
 
 ```php
-    // /lang/en/validation.php
-    
-    return [
-            \App\Http\Requests\Form\StoreUserDetails::class => [
-                'email' => [
-                    'required' => 'Email address is required',
-                    'email'   => 'Email address looks weird, innit?',
-                    // add more rules here...
-                ],
-                'password' => [
-                    'required' => 'Password is required',
-                    // add more rules here...
-                ],
+// /lang/en/validation.php
+
+return [
+        \App\Http\Requests\Form\StoreUserDetails::class => [
+            'email' => [
+                'required' => 'Email address is required',
+                'email'   => 'Email address looks weird, innit?',
+                // add more rules here...
             ],
-    ];
+            'password' => [
+                'required' => 'Password is required',
+                // add more rules here...
+            ],
+        ],
+];
 ```
 
 ## Testing

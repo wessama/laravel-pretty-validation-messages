@@ -1,8 +1,7 @@
 # Laravel Pretty Validation Messages
 
-![Latest Version](https://img.shields.io/github/v/tag/your-namespace/laravel-pretty-validation-messages?label=version)
-![Total Downloads](https://img.shields.io/packagist/dt/your-namespace/laravel-pretty-validation-messages.svg)
-![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Total Downloads][ico-downloads]][link-downloads]
 
 Laravel Pretty Validation Messages is a Laravel package providing a trait for FormRequests to use translation strings for validation messages.
 

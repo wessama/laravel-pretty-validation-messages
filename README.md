@@ -83,4 +83,11 @@ You can run the tests with:
 - Wessam Ahmed
 
 ## License
-The MIT License (MIT). Please see License File for more information.
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+[ico-version]: https://img.shields.io/packagist/v/wessama/laravel-pretty-validation-messages.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/wessama/laravel-pretty-validation-messages.svg?style=flat-square
+
+[link-packagist]: https://packagist.org/packages/wessama/laravel-pretty-validation-messages
+[link-downloads]: https://packagist.org/packages/wessama/laravel-pretty-validation-messages
+[link-author]: https://github.com/wessama

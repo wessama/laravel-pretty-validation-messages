@@ -13,6 +13,18 @@ You can install the package via composer:
 composer require wessama/laravel-pretty-validation-messages
 ```
 
+Or you can just add it to your `composer.json` file:
+
+```json
+{
+    "require": {
+        "wessama/laravel-pretty-validation-messages": "^1.0"
+    }
+}
+```
+
+Otherwise, you can clone the repo and include the trait in your FormRequests manually.
+
 ## Usage
 After installation, use the `HasPrettyValidationMessages` trait in your FormRequest classes:
 
